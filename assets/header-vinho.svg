@@ -1,0 +1,55 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient: Rich Deep Wine / Burgundy -->
+    <linearGradient id="bg-grad-wine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#260814" />
+      <stop offset="60%" stop-color="#3B0E23" />
+      <stop offset="100%" stop-color="#541634" />
+    </linearGradient>
+
+    <!-- Grid Pattern: 68x68 squares in wine tone -->
+    <pattern id="grid-wine" width="68" height="68" patternUnits="userSpaceOnUse">
+      <path d="M 68 0 L 0 0 0 68" fill="none" stroke="#631B3D" stroke-width="1" stroke-opacity="0.35" />
+    </pattern>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="1280" height="340" fill="url(#bg-grad-wine)" />
+  <rect width="1280" height="340" fill="url(#grid-wine)" />
+
+  <!-- Left Side: Typography -->
+  <!-- Name -->
+  <text x="100" y="138" font-family="'Liberation Sans', 'Cantarell', 'Segoe UI', Roboto, sans-serif" font-size="66" font-weight="bold" fill="#FFFFFF" letter-spacing="-0.5">Vitor Lopes</text>
+
+  <!-- Subtitle -->
+  <text x="102" y="196" font-family="'Liberation Sans', 'Cantarell', 'Segoe UI', Roboto, sans-serif" font-size="31" font-weight="500" fill="#D4A5B8">Desenvolvedor de Software</text>
+
+  <!-- Tech Stack / Specialties -->
+  <text x="102" y="268" font-family="'Liberation Sans', 'Cantarell', 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="400" fill="#F0E2E7" letter-spacing="0.3">
+    TypeScript <tspan fill="#8B355B"> &#8226; </tspan> Node.js <tspan fill="#8B355B"> &#8226; </tspan> PostgreSQL <tspan fill="#8B355B"> &#8226; </tspan> Clean Architecture
+  </text>
+
+  <!-- Right Side: Constellation / Topology Network -->
+  <g id="constellation">
+    <!-- Connecting Lines -->
+    <line x1="881" y1="195" x2="981" y2="105" stroke="#7E294E" stroke-width="2" stroke-opacity="0.85" />
+    <line x1="881" y1="195" x2="1051" y2="225" stroke="#7E294E" stroke-width="2" stroke-opacity="0.85" />
+    <line x1="981" y1="105" x2="1051" y2="225" stroke="#7E294E" stroke-width="2" stroke-opacity="0.85" />
+    <line x1="981" y1="105" x2="1091" y2="155" stroke="#7E294E" stroke-width="2" stroke-opacity="0.85" />
+    <line x1="1051" y1="225" x2="1091" y2="155" stroke="#7E294E" stroke-width="2" stroke-opacity="0.85" />
+    <line x1="1091" y1="155" x2="1161" y2="85" stroke="#7E294E" stroke-width="2" stroke-opacity="0.85" />
+
+    <!-- Outer target ring on key node -->
+    <circle cx="981" cy="105" r="18" fill="none" stroke="#A84471" stroke-width="1.6" stroke-opacity="0.65" />
+
+    <!-- Node circles -->
+    <circle cx="881" cy="195" r="7.5" fill="#D4A5B8" />
+    <circle cx="981" cy="105" r="7.5" fill="#F5EDF0" />
+    <circle cx="1051" cy="225" r="6.5" fill="#D4A5B8" />
+    <circle cx="1091" cy="155" r="7.5" fill="#F5EDF0" />
+    <circle cx="1161" cy="85" r="6.5" fill="#D4A5B8" />
+
+    <!-- Handle / URL -->
+    <text x="1161" y="286" text-anchor="end" font-family="'Comfortaa', 'Cantarell', 'Liberation Sans', sans-serif" font-size="22" font-weight="500" fill="#D4A5B8" letter-spacing="0.8">github.com/vitorlopes-coder</text>
+  </g>
+</svg>
