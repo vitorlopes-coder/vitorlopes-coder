@@ -77,12 +77,6 @@ Sou entusiasta de **Linux** e automação de ambientes com **Docker**, sempre bu
   </a>
 </div>
 
----
-
-## Atividade
-
----
-
 ## Vamos conversar?
 
 <div align="center">
