@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/vitorlopes-coder"><img src="https://img.shields.io/badge/GitHub-742447?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/vitorlopes-coder"><img src="https://img.shields.io/badge/LinkedIn-742447?style=flat-square&logo=linkedin&logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/vitor-lopes-6802811b4/)" /></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-742447?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vitorlopes-coder"><img src="https://img.shields.io/badge/LinkedIn-742447?style=flat-square&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vitor-lopes-6802811b4/" /></a>
+  <a href="mailto:lopesvitor76@gmail.com"><img src="https://img.shields.io/badge/Email-742447?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/vitorlopes-coder?tab=followers"><img src="https://img.shields.io/github/followers/vitorlopes-coder?label=Seguidores&color=742447&style=flat-square&logo=github&logoColor=white" alt="Seguidores no GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=vitorlopes-coder&label=Visitas&color=742447&style=flat-square" alt="Visitas no Perfil" />
 </p>
