@@ -18,7 +18,7 @@ Tenho experiência em desenvolvimento **Backend**, com foco em construção de A
 
 A nível de **Frontend**, possuo conhecimento em **React**, **Tailwind CSS** e arquitetura **MVVM** aplicando boas práticas de desenvolvimento e design responsivo.
 
-Para além de front e backend, desenvolvo continuamente minhas habilidades com programação assistida por IA, aprimorando e refinando o uso de habilidades (Skills) e procurando sempre otimizar o ambiente de desenvolvimento (Harness) para seu propósito buscando otimizar o custo de desenvolvimento e qualidade da entrega.
+Para além de front e backend, desenvolvo continuamente minhas habilidades com programação assistida por IA, aprimorando e refinando o uso de habilidades (Skills) e procurando sempre otimizar o ambiente de desenvolvimento (Harness) para seu propósito otimizando o custo de desenvolvimento e a qualidade da entrega.
 
 Sou entusiasta de **Linux** e automação de ambientes com **Docker**, sempre buscando otimizações de queries, modelagem eficiente de bancos relacionais e código sustentável.
 
